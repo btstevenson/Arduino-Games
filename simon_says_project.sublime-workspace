@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"allLights"
+			],
+			[
+				"disp",
+				"dispCnt"
+			],
+			[
+				"Dis",
+				"Disp_Off"
+			],
+			[
+				"upd",
+				"updateShiftRegister"
+			],
+			[
+				"sim",
+				"simonArray"
+			],
+			[
+				"noI",
+				"noInputCnt"
+			],
+			[
+				"Si",
+				"Simon_Init"
+			],
+			[
+				"win",
+				"winLose"
+			],
+			[
+				"DI",
+				"Disp_On"
+			],
+			[
+				"inp",
+				"inputFlag"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"get",
+				"getInput"
+			],
+			[
+				"dis",
+				"dispCnt"
+			],
+			[
+				"Di",
+				"Disp_Off"
+			],
+			[
+				"Sim",
+				"Simon_Game"
+			],
+			[
+				"simo",
+				"simonState"
+			],
+			[
+				"D",
+				"Disp_On"
+			],
+			[
+				"game",
+				"gameState"
+			],
+			[
+				"Simon",
+				"Simon_Display"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"de",
+				"delay_time"
+			],
+			[
+				"Wai",
+				"Wait_Data"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"tic",
+				"TickFct"
+			],
+			[
+				"tas",
+				"task2"
+			],
+			[
+				"S",
+				"Sim_period"
+			],
+			[
+				"In",
+				"Init_Sim"
+			],
+			[
+				"bit",
+				"bitCnt"
+			],
+			[
+				"co",
+				"connOpen"
+			],
+			[
+				"Send",
+				"Send_Data"
+			],
+			[
+				"Se",
+				"Send_Data"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"is",
+				"is_logged_in"
+			],
+			[
+				"form",
+				"form_input"
+			],
+			[
+				"trim",
+				"trim|required|valid_email|is_unique"
+			],
+			[
+				"taSK",
+				"tasks"
+			],
+			[
+				"Sort",
+				"SortDeadlines"
+			],
+			[
+				"Low",
+				"Low_Wait"
+			],
+			[
+				"M",
+				"Mid_Wait"
+			],
+			[
+				"Mi",
+				"Mid_On"
+			],
+			[
+				"High",
+				"High_Wait"
+			],
+			[
+				"H",
+				"High_On"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"tmp",
+				"tmpTask"
+			],
+			[
+				"n",
+				"numTasks"
+			],
+			[
+				"p",
+				"period"
+			],
+			[
+				"Mid_",
+				"Mid_On"
+			],
+			[
+				"Mid",
+				"Mid_Off"
+			],
+			[
+				"Low_",
+				"Low_Off"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"T",
+				"TickFct"
+			],
+			[
+				"el",
+				"elapsedTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Simon_Says/Simon_Says.ino",
+			"settings":
+			{
+				"buffer_size": 7433,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Simon_Says/scheduler.h",
+			"settings":
+			{
+				"buffer_size": 4730,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"c",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"c i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/School/UCR/CS122A/Project/Simon_Says/simon_says.h",
+		"/E/School/UCR/CS122A/Project/scheduler.h",
+		"/E/Builds/UCRInterest/ucrinterest.sql",
+		"/E/Builds/UCRInterest/application/views/user/pins_view.php",
+		"/E/Builds/UCRInterest/application/views/user/board_view.php",
+		"/E/Builds/UCRInterest/assets/css/bootstrap.css",
+		"/E/Builds/UCRInterest/assets/js/board_form.php",
+		"/E/Builds/UCRInterest/application/models/profile_model.php",
+		"/E/School/UCR/CS122A/Labs/Lab_4/bstev002_Lab4/bstev002_Lab4_Part3.c",
+		"/E/School/UCR/CS122A/Labs/Lab_8/bstev002_Lab8/bstev002_Lab8_Part2.c",
+		"/E/Builds/UCRInterest/application/views/template/board_modal.php",
+		"/E/Builds/UCRInterest/application/controllers/profile.php",
+		"/E/School/UCR/CS122A/Project/Simon_Says/scheduler.h",
+		"/E/School/UCR/CS122A/Labs/Lab_7/bstev002_Lab7_Part1/bstev002_Lab7_Part1/scheduler.h",
+		"/E/Builds/UCRInterest/application/views/user/profile_view.php",
+		"/E/Builds/UCRInterest/application/views/template/post_modal.php",
+		"/E/Builds/UCRInterest/application/views/template/header.php",
+		"/E/Builds/UCRInterest/assets/js/post.js",
+		"/E/Builds/UCRInterest/assets/js/post_form.php",
+		"/E/Builds/UCRInterest/application/views/login_view.php",
+		"/E/Builds/UCRInterest/application/models/login_model.php",
+		"/E/Builds/UCRInterest/application/controllers/login.php",
+		"/E/Builds/UCRInterest/application/views/profile_view.php",
+		"/E/Builds/UCRInterest/application/views/profile_view_mine.php",
+		"/E/School/UCR/CS122A/Homework/Homework_2/bstev002_homework2_question_3.c",
+		"/E/School/UCR/CS122A/Homework/Homework_2/bstev002_homework2_question_2.c",
+		"/E/School/UCR/CS122A/Homework/Homework_2/bstev002_homework2_question_1.c",
+		"/E/School/UCR/CS122A/Homework/Homework_1/bstev002_question_1.c",
+		"/E/Builds/UCRInterest/application/views/welcome_message.php",
+		"/E/Builds/UCRInterest/application/models/registration_model.php",
+		"/E/Builds/UCRInterest/application/views/registration_view.php",
+		"/E/Builds/UCRInterest/application/controllers/register.php",
+		"/E/Builds/UCRInterest/application/config/autoload.php",
+		"/E/School/UCR/CS122A/Labs/Lab_4/bstev002_Lab4_Part2/bstev002_Lab4_Part2/bstev002_Lab4_Part3.c",
+		"/E/School/UCR/CS122A/Labs/Lab_5/GccApplication6.c",
+		"/E/School/UCR/CS122A/Homework/Homework_1/test2.c",
+		"/E/School/UCR/CS122A/Homework/Homework_1/test.c",
+		"/E/School/UCR/CS122A/Labs/Lab_4/test_main/test_main/bstev002_Lab4_Part1.c",
+		"/C/Users/Brandon/Users/Brandon/Documents/RIMS/RIMS_ch9_ThreeLedsTriggered_sample.c",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part1/Lab2_Part1/bstev002_Lab2_Part1.c",
+		"/E/GIT/RC Plane/Plane_Testing/Plane_Testing.ino",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part3/bstev002_Lab2_Part3/bstev002_Lab2_Part3/bstev002_Lab2_Part3.c",
+		"/E/School/UCR/CS122A/Labs/Lab_4/bstev002_Lab4_Part2/bstev002_Lab4_Part2/scheduler.h",
+		"/E/School/UCR/CS122A/Labs/Lab_4/GccApplication5.c",
+		"/E/GIT/Digital-Piano/TestPiano/DigitalPiano.c",
+		"/E/School/UCR/CS122A/FreeRTOS/FreeRTOS/Source/include/task.h",
+		"/E/School/UCR/CS122A/Labs/Lab_3/bstev002_Lab3_Part4_Exercise1/bstev002_Lab3_Part4_Exercise1/bstev002_Lab3_Part4_Exercise3.c",
+		"/E/School/UCR/CS122A/Labs/Lab_3/bstev002_Lab3_Part4_Exercise1/bstev002_Lab3_Part4_Exercise1/bstev002_Lab3_Part4_Exercise1.c",
+		"/E/School/UCR/CS122A/Labs/Lab_3/bstev002_Lab3_Part4_Exercise1/bstev002_Lab3_Part4_Exercise1/main.c",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part3/queue.h",
+		"/E/GIT/Digital-Piano/TestPiano/timer.h",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part2/Lab2_Part2/bstev002_Lab2_Part2.c",
+		"/E/School/UCR/CS122A/Labs/Lab_3/bstev002_Lab3_Part2/bstev002_Lab3_Part2_Exercise4.c",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part2/Lab2_Part2/Part2_Lab2.c",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part2/Lab2_Part2/Lab2_Part2.c",
+		"/E/School/UCR/CS122A/Labs/Lab_2/Lab2_Part1/Lab2_Part1/Lab2_Part1.c",
+		"/E/School/UCR/CS122A/Labs/Lab_1/Code/Part4.c",
+		"/E/School/UCR/CS122A/Labs/Lab_1/Code/Part_2.c",
+		"/E/School/UCR/CS122A/Labs/Lab_1/Code/Part_1_a.c",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/School/UCR/CS166/Project/CS166_Project/java/src/ProfNetwork.java",
+		"/E/GIT/Compiler/MachineCode/Source/mini_l.y",
+		"/E/GIT/Pintos/src/filesys/file.h",
+		"/E/GIT/Pintos/src/threads/synch.h",
+		"/E/GIT/ClientServer/Server/Source/mtServer.c",
+		"/E/GIT/ClientServer/Server/Include/mtServer.h",
+		"/E/GIT/ClientServer/Client/Source/mtClient.c",
+		"/E/GIT/ClientServer/Client/Include/mtClient.h",
+		"/E/School/UCR/integettest.c"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"page_id",
+			"ul",
+			"ui",
+			"value",
+			"printf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Simon_Says/Simon_Says.ino",
+					"settings":
+					{
+						"buffer_size": 7433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/User/Stino/Arduino.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Simon_Says/scheduler.h",
+					"settings":
+					{
+						"buffer_size": 4730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								968,
+								968
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1441235110.97":
+	{
+		"height": 124.0
+	},
+	"output.Plane_Testing":
+	{
+		"height": 124.0
+	},
+	"output.build|E:\\GIT\\RC Plane\\Plane_Testing|1441235091.45":
+	{
+		"height": 124.0
+	},
+	"output.build|E:\\GIT\\RC Plane\\Plane_Testing|1441235142.69":
+	{
+		"height": 124.0
+	},
+	"output.build|E:\\GIT\\RC Plane\\Plane_Testing|1441235256.64":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.stino_log":
+	{
+		"height": 124.0
+	},
+	"output.upload|E:\\GIT\\RC Plane\\Plane_Testing|1441235410.51":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
